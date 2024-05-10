@@ -391,9 +391,6 @@ body {
     width: 70%;
   }
   
-  .slide img{
-    cursor: pointer;
-  }
   .fp-controlArrow.fp-next {
     border-color: transparent transparent transparent #ff6363 !important;
     right: 45px !important;
